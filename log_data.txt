@@ -1,0 +1,1 @@
+Esta linha foi escrita usando o módulo FS do Node.js.
